@@ -1,0 +1,21 @@
+DDM031/stderr.log
+DDM031/stdout.log
+version.py
+bin/
+__pycache__
+*.pyc
+dist
+build
+zart.egg-info
+#ignore environment file
+.env
+#Ignore log files
+*.log
+cplog*
+tnz.log
+run.log
+jobSummary.xml
+#ignore doctrees for sphinx
+doctrees
+
+
