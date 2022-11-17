@@ -24,7 +24,8 @@ def create_csm_session():
     print("--------------------------------")
     # Create a session
 
-    #lines 29-31 convert following variable to input parameters and add a routine for type checking
+    #lines 29-31 convert following variables to input parameters and add a routine for type checking
+    #https://docs.python.org/3/library/typing.html
 
     in_session_name = "mysession"
     session_type = "Migration"
